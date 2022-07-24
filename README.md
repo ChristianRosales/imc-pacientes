@@ -1,0 +1,1 @@
+Esta es una aplicacion web que emula una tabla de información de una institución de salud, su funcion es agegar pacientes y calcular su IMC.
